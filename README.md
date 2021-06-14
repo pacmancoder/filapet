@@ -1,2 +1,2 @@
-# filapet
-Filament making machine inspired by PetPull project
+# FilaPET
+Filament making machine inspired by [PetPull](https://github.com/pacmancoder/filapet) project.
